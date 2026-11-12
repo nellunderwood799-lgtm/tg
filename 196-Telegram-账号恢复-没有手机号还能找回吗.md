@@ -9,9 +9,9 @@ pain_point: "账号恢复"
 
 # Telegram账号没有手机号还能找回吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先检查是否仍有本人已登录设备；如果没有号码也没有现存会话，恢复选择会非常有限。按官方登录页和支持表单处理，不相信第三方绕过验证。
 
@@ -26,5 +26,3 @@ pain_point: "账号恢复"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

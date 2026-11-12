@@ -9,9 +9,9 @@ pain_point: "账号交付"
 
 # Telegram账号交付后被限制算谁的责任
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先比较交付前商品承诺、验收证据和限制发生时间；平台审核结果不能由卖家保证。保存官方限制提示，通过订单约定的售后渠道提交，不购买“包解封”。
 
@@ -26,5 +26,3 @@ pain_point: "账号交付"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

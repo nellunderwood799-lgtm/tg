@@ -9,9 +9,9 @@ pain_point: "账号价格"
 
 # Telegram高价高权重账号值得买吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**Telegram没有向买家提供可验证的公开权重分数；高价说法可能无法独立核验。要求对方指出具体可观察功能，不接受只凭后台截图或口头保证。
 
@@ -26,5 +26,3 @@ pain_point: "账号价格"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

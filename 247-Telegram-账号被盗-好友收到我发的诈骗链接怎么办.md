@@ -9,9 +9,9 @@ pain_point: "账号被盗"
 
 # Telegram账号好友收到我发的诈骗链接怎么办
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**通过其他可信渠道通知联系人暂勿点击，并说明账号可能被盗。尽快结束陌生会话、保护号码并保存事件证据。
 
@@ -26,5 +26,3 @@ pain_point: "账号被盗"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

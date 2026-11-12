@@ -9,9 +9,9 @@ pain_point: "账号恢复"
 
 # Telegram账号删除后还能恢复吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**Telegram官方说明账号删除不可逆；重新注册不会恢复原来的聊天、联系人和群组。操作前核对登录账号是否正确，并备份你有权保留的数据。
 
@@ -26,5 +26,3 @@ pain_point: "账号恢复"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

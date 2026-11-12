@@ -9,9 +9,9 @@ pain_point: "账号交接"
 
 # Telegram转移频道会丢失订阅者和历史吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**所有权转移与删除/重建频道是不同操作，具体显示和功能以官方客户端提示为准。不要为了交接直接删除频道或重建同名频道。
 
@@ -26,5 +26,3 @@ pain_point: "账号交接"
 
 ### 官方资料
 [Telegram 官方说明](https://core.telegram.org/api/channel)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

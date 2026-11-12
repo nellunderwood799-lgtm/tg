@@ -9,9 +9,9 @@ pain_point: "账号价格"
 
 # Telegram企业批量报价怎么核算成本
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**除单价外还需计入号码续费、人员管理、交接、客服和合规审查成本。先评估是否可用频道、群组权限或客服流程替代购买多个个人号。
 
@@ -26,5 +26,3 @@ pain_point: "账号价格"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

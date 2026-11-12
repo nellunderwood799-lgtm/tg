@@ -9,9 +9,9 @@ pain_point: "验证码"
 
 # Telegram要求邮箱验证码正常吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**具体登录流程可能要求额外核验；只在官方客户端和明确的 Telegram 页面输入本人邮箱验证码。核实域名和应用来源，不把验证码发给聊天中的“客服”。
 
@@ -26,5 +26,3 @@ Telegram 登录码只用于本人主动登录，不能发给卖家、客服或�
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

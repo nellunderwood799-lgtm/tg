@@ -9,9 +9,9 @@ pain_point: "账号交接"
 
 # Telegram转移后原所有者还能管理频道吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**要查看转移后实际管理员列表和权限；所有权与管理员角色是不同设置。交接后由新所有者复核并按约定移除旧权限。
 
@@ -26,5 +26,3 @@ pain_point: "账号交接"
 
 ### 官方资料
 [Telegram 官方说明](https://core.telegram.org/api/channel)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

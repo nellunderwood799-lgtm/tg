@@ -9,9 +9,9 @@ pain_point: "老号"
 
 # Telegram老号值得买吗，什么情况不建议买
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**如果账号用于重要联系人、客服或长期经营，通常更稳妥的路径是自己注册并控制号码；转手账号存在恢复与合规风险。至少先确认账号转让方式符合当地法规和平台当前规则。
 
@@ -26,5 +26,3 @@ pain_point: "老号"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

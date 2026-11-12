@@ -9,9 +9,9 @@ pain_point: "账号被盗"
 
 # Telegram账号找回账号后如何防止再次被盗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**更换恢复邮箱凭据、启用强两步验证并复核所有设备会话。不要在共享设备保存登录状态。
 
@@ -26,5 +26,3 @@ pain_point: "账号被盗"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

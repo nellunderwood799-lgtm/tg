@@ -9,9 +9,9 @@ pain_point: "账号被盗"
 
 # Telegram账号黑客改了两步验证怎么办
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**使用仍可信的活动会话检查官方恢复选项，并保护绑定号码。不要尝试第三方绕过密码服务。
 
@@ -26,5 +26,3 @@ pain_point: "账号被盗"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

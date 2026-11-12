@@ -9,9 +9,9 @@ pain_point: "地区号"
 
 # Telegram地区号常见骗局有哪些
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**警惕只给截图、不交控制权；要求验证码或远程控制；临时更换收款地址；以及收费解封或永久稳定承诺。交易证据与可追溯付款方式比评价截图更有用。
 
@@ -26,5 +26,3 @@ pain_point: "地区号"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

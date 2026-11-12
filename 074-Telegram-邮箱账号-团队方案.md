@@ -9,9 +9,9 @@ pain_point: "邮箱账号"
 
 # Telegram带邮箱账号企业或多人使用怎么规划
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先区分公告、社群、客服和员工个人沟通；优先通过频道、管理员权限、机器人或工单协作解决，而不是购买多个人号。团队应让企业控制业务号码与恢复渠道。
 
@@ -26,5 +26,3 @@ pain_point: "邮箱账号"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/privacy)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

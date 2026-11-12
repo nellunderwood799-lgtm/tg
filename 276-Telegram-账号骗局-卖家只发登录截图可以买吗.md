@@ -9,9 +9,9 @@ pain_point: "账号骗局"
 
 # Telegram账号交易卖家只发登录截图可以买吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**截图不能证明账号当前状态、号码归属或恢复路径。要求实际可核验的商品规格与订单保护，否则放弃。
 
@@ -26,5 +26,3 @@ pain_point: "账号骗局"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

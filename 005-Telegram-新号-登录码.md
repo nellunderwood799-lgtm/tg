@@ -9,9 +9,9 @@ pain_point: "新号"
 
 # Telegram新号收不到登录验证码怎么办
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**按官方登录页提示检查 Telegram 内其他已登录设备、号码格式和客户端；不要默认验证码一定走短信。避免连续请求或使用第三方接码绕过验证。
 
@@ -26,5 +26,3 @@ pain_point: "新号"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq_spam)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

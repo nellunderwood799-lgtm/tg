@@ -9,9 +9,9 @@ pain_point: "购买平台"
 
 # Telegram账号账号商城商品规格怎么看
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**逐项看号码类型、资料范围、当前状态、售后和不包含项。模糊词如“稳定”“高权重”应要求定义和可验证证据。
 
@@ -26,5 +26,3 @@ Telegram 没有在官方 FAQ 中提供第三方账号交易平台背书；应把
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

@@ -9,9 +9,9 @@ pain_point: "账号交付"
 
 # Telegram账号账号交付后多久算验收完成
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**应由双方在订单前约定验收项目和时间；Telegram没有为第三方交易设定统一验收期。保留登录提示与商品描述证据，发现不符立即按平台时限申报。
 
@@ -26,5 +26,3 @@ pain_point: "账号交付"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

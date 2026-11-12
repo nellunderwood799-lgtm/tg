@@ -9,9 +9,9 @@ pain_point: "登录资料"
 
 # Telegram账号登录资料交付时需要哪些资料
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**核对手机号归属、登录渠道、两步验证/恢复邮箱说明、设备会话和售后记录；不同资料的作用不要混为一谈。缺项应标记为未交付，而不是默认包含。
 
@@ -26,5 +26,3 @@ pain_point: "登录资料"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

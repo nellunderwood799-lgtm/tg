@@ -9,9 +9,9 @@ pain_point: "账号价格"
 
 # Telegram账号报价为什么差别很大
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**报价可能混合号码、账号状态、交付资料和售后承诺等不同规格，先统一口径才有可比性。没有官方统一行情价，不要根据单一截图判断合理价格。
 
@@ -26,5 +26,3 @@ pain_point: "账号价格"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

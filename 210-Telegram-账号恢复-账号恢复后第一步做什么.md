@@ -9,9 +9,9 @@ pain_point: "账号恢复"
 
 # Telegram账号账号恢复后第一步做什么
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先确认绑定号码、两步验证、恢复邮箱和活跃设备，再通知联系人注意异常消息。若怀疑号码泄露，同时联系运营商保护SIM卡。
 
@@ -26,5 +26,3 @@ pain_point: "账号恢复"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

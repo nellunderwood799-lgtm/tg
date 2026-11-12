@@ -9,9 +9,9 @@ pain_point: "售后退款"
 
 # Telegram账号登录资料缺失算不算交付不全
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**如果商品明确包含某项资料而实际未提供，应保留页面与订单作为依据。逐项对照购买时规格，不要只提交“账号不好用”的笼统描述。
 
@@ -26,5 +26,3 @@ pain_point: "售后退款"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

@@ -9,9 +9,9 @@ pain_point: "账号价格"
 
 # Telegram怎么比较不同Telegram账号报价
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**把号码归属、登录资料、两步验证、设备会话、限制状态和售后列成同一张表。无法验证的“账号权重”或“永久稳定”按零价值处理。
 
@@ -26,5 +26,3 @@ pain_point: "账号价格"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

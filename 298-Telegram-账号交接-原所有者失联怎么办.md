@@ -9,9 +9,9 @@ pain_point: "账号交接"
 
 # Telegram原所有者失联怎么办
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**保留现有管理员权限和资产记录，按 Telegram 官方可用支持路径评估。没有官方可行路径时不要购买第三方“强制转移”服务。
 
@@ -26,5 +26,3 @@ pain_point: "账号交接"
 
 ### 官方资料
 [Telegram 官方说明](https://core.telegram.org/api/channel)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

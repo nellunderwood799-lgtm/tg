@@ -9,9 +9,9 @@ pain_point: "账号骗局"
 
 # Telegram账号交易卖家保留SIM卡有什么风险
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**对方仍可能收到与号码相关的验证信息，控制权未必完整移交。不要把长期使用建立在卖家代收码上。
 
@@ -26,5 +26,3 @@ pain_point: "账号骗局"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

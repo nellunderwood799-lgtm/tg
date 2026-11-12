@@ -9,9 +9,9 @@ pain_point: "账号限制"
 
 # Telegram账号只能给联系人发消息是什么原因
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**这符合 Telegram 对被举报为垃圾消息账号可能施加的联系限制表现。用官方 @SpamBot 查询状态，暂停向陌生人主动发消息。
 
@@ -26,5 +26,3 @@ pain_point: "账号限制"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq_spam)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

@@ -9,9 +9,9 @@ pain_point: "地区号"
 
 # Telegram地区号登录后被限制、不能私聊怎么办
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**通过官方 @SpamBot 查看限制并按 FAQ 申诉；不要继续向陌生人群发或换账号规避。平台审核结果和处理时间不能由卖家保证。
 
@@ -26,5 +26,3 @@ pain_point: "地区号"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

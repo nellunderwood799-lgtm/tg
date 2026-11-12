@@ -9,9 +9,9 @@ pain_point: "批量采购"
 
 # Telegram账号批量采购前要核实哪些风险
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**号码控制、恢复资料、员工离职回收和平台反垃圾规则会一起放大管理成本。先做权限与数据盘点，避免用多账号规避限制或群发陌生人。
 
@@ -26,5 +26,3 @@ pain_point: "批量采购"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

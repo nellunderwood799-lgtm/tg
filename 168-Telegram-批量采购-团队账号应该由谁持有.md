@@ -9,9 +9,9 @@ pain_point: "批量采购"
 
 # Telegram账号团队账号应该由谁持有
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**业务号码和恢复渠道应由组织制度控制，不能只依赖单个员工私人号码。指定至少一名正式业务负责人和一套离职交接流程。
 
@@ -26,5 +26,3 @@ pain_point: "批量采购"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

@@ -9,9 +9,9 @@ pain_point: "售后退款"
 
 # Telegram账号退款条款里应该写哪些条件
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**写清未交付、规格不符、号码失效、已有账号限制、申请期限和退款路径。不要让“稳定”“包售后”等模糊词成为唯一承诺。
 
@@ -26,5 +26,3 @@ pain_point: "售后退款"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

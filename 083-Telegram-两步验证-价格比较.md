@@ -9,9 +9,9 @@ pain_point: "两步验证"
 
 # Telegram两步验证账号价格差异主要看哪些因素
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**把号码可控性、交付内容、当前限制、售后范围和付款保障统一比较；不可验证的“权重”不给溢价。没有统一官方账号行情价，谨慎看待精确报价表。
 
@@ -26,5 +26,3 @@ pain_point: "两步验证"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq#q-how-does-2-step-verification-work)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

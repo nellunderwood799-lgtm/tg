@@ -9,9 +9,9 @@ pain_point: "账号交付"
 
 # Telegram账号交付时需要手机号吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**Telegram账号关联移动号码；号码是否能由实际使用人持续控制，是长期访问的重要条件。确认号码归属与持续接收能力，不接受“以后找我代收码”作为保障。
 
@@ -26,5 +26,3 @@ pain_point: "账号交付"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

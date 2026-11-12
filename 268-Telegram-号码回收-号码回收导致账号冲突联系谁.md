@@ -9,9 +9,9 @@ pain_point: "号码回收"
 
 # Telegram号码回收导致账号冲突联系谁
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先向号码运营商确认持有状态，再通过 Telegram 官方支持入口说明冲突。论坛经验不能保证平台会如何处理特定账号。
 
@@ -26,5 +26,3 @@ pain_point: "号码回收"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

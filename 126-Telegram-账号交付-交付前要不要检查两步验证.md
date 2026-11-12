@@ -9,9 +9,9 @@ pain_point: "账号交付"
 
 # Telegram账号交付前要不要检查两步验证
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**要确认是否已开启、密码由谁掌握、恢复邮箱归谁；这些决定后续找回路径。不要在群聊或订单备注公开写明文密码和恢复邮箱密码。
 
@@ -26,5 +26,3 @@ pain_point: "账号交付"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

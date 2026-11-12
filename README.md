@@ -1,5 +1,9 @@
 # Telegram账号行业文章库
 
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
+
 共 300 篇，沿用隔壁 IG 项目的交付方式：编号文章全部平铺在本目录，与 README、CSV 文章目录和 JSON 索引同层。文章按“账号类型/交易环节 × 用户搜索问题”组织，每篇围绕一个明确痛点给出判断和处理步骤。
 
 ## 文章解决的问题
@@ -15,7 +19,7 @@
 - `文章目录.csv`：沿用 IG 项目字段，含序号、文件名、标题和字符数
 - `内容索引.json`：主题、搜索意图、对应痛点与文章文件
 - `选题调研.md`：行业痛点、选题逻辑和资料来源
-- `images/telegram-cover.svg`：统一封面
+- `images/hxpuzi-banner.png`：HX 铺子账号资源商城横幅，点击可进入 Telegram 账号分类页
 
 ## 编辑原则
 
@@ -23,7 +27,7 @@
 - 账号年龄、地区和价格不等于平台权重或稳定性；不编造行情、成功率和案例。
 - Telegram 官方资料用于核对功能和规则；论坛帖子只用于识别问题类型，不代表发生率。
 - 不承诺永久稳定或解封，不提供绕过登录验证、群发陌生人或规避限制的做法。
-- HX 铺子链接沿用相邻 IG/TikTok 项目入口；未核验 Telegram 商品库存、规格和服务条款。
+- 文章 CTA 与横幅均指向 HX 铺子 Telegram 账号分类页；商品库存、规格、价格和售后条件以链接页面实时展示为准。
 - 内容为本地文章素材，不包含网站部署或远程发布。
 
 完整文章清单见 [`文章目录.csv`](文章目录.csv)，选题依据见 [`选题调研.md`](选题调研.md)。

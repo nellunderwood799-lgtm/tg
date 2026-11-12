@@ -9,9 +9,9 @@ pain_point: "账号交接"
 
 # Telegram员工离职频道怎么交接
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先将所有权交给组织指定负责人，再移除离职人员权限并检查其他管理入口。不要直接接管员工的私人 Telegram 账号。
 
@@ -26,5 +26,3 @@ pain_point: "账号交接"
 
 ### 官方资料
 [Telegram 官方说明](https://core.telegram.org/api/channel)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

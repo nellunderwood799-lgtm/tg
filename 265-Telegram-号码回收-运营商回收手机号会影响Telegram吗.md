@@ -9,9 +9,9 @@ pain_point: "号码回收"
 
 # Telegram运营商回收手机号会影响Telegram吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**Telegram建议始终连接到自己控制的当前号码，否则可能失去账号访问。停用前先改绑并检查设备会话。
 
@@ -26,5 +26,3 @@ pain_point: "号码回收"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

@@ -9,9 +9,9 @@ pain_point: "批量采购"
 
 # Telegram账号批量账号能否用于陌生人营销
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**不应把批量账号当作扩大未经同意触达的方式；Telegram条款禁止垃圾消息和诈骗。改用用户主动订阅、合规广告或同意式客服。
 
@@ -26,5 +26,3 @@ pain_point: "批量采购"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

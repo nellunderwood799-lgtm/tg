@@ -9,9 +9,9 @@ pain_point: "老号"
 
 # Telegram老号付款后按什么顺序验收
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**保存订单证据，使用官方客户端检查号码和账号状态，再核实安全设置、恢复资料、设备会话与售后窗口。发现不符先暂停使用和导入数据，按订单路径提交证据。
 
@@ -26,5 +26,3 @@ pain_point: "老号"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

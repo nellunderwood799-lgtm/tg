@@ -9,9 +9,9 @@ pain_point: "购买平台"
 
 # Telegram账号平台要求先登录再验货怎么办
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先确认验货会不会触发付款、改变账号状态或放弃售后权利。不清楚后果时先要求书面说明，避免先提交验证码或解除争议保护。
 
@@ -26,5 +26,3 @@ Telegram 没有在官方 FAQ 中提供第三方账号交易平台背书；应把
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

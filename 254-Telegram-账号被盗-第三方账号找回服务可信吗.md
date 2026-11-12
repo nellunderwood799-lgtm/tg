@@ -9,9 +9,9 @@ pain_point: "账号被盗"
 
 # Telegram账号第三方账号找回服务可信吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**无法验证的“内部找回”服务常要求敏感凭据，风险很高。只用 Telegram 官方客户端和支持入口。
 
@@ -26,5 +26,3 @@ pain_point: "账号被盗"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

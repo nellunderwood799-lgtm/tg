@@ -9,9 +9,9 @@ pain_point: "验证码"
 
 # TelegramToo Many Attempts要等多久
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**以客户端显示的等待时间为准；重复尝试未必能缩短限制。暂停请求并按提示等待，不切换大量设备或非官方客户端。
 
@@ -26,5 +26,3 @@ Telegram 登录码只用于本人主动登录，不能发给卖家、客服或�
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

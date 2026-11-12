@@ -9,9 +9,9 @@ pain_point: "售后退款"
 
 # Telegram账号自助发货商品出现问题找谁
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**优先走订单页的官方客服或平台争议入口，自动发货不代表没有服务责任。不向陌生私聊账号再次付款来“解锁工单”。
 
@@ -26,5 +26,3 @@ pain_point: "售后退款"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

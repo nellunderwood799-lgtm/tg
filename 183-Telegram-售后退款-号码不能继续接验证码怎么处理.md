@@ -9,9 +9,9 @@ pain_point: "售后退款"
 
 # Telegram账号号码不能继续接验证码怎么处理
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**号码失去控制可能影响账号长期使用，不能等同于普通客户端故障。按条款提交号码归属和失效证据，不再依赖卖家代收码。
 
@@ -26,5 +26,3 @@ pain_point: "售后退款"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

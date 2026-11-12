@@ -9,9 +9,9 @@ pain_point: "购买平台"
 
 # Telegram账号平台说包解封可信吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**不能把卖家承诺当成 Telegram 的审核结果；官方申诉由 Telegram 处理。只通过应用内或官方说明给出的路径处理限制，不额外购买“解封服务”。
 
@@ -26,5 +26,3 @@ Telegram 没有在官方 FAQ 中提供第三方账号交易平台背书；应把
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

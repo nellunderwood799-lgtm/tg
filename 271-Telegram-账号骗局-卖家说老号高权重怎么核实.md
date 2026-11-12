@@ -9,9 +9,9 @@ pain_point: "账号骗局"
 
 # Telegram账号交易卖家说老号高权重怎么核实
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**Telegram没有向买家提供公开可核验的账号权重分数。不要为无法独立验证的标签支付溢价。
 
@@ -26,5 +26,3 @@ pain_point: "账号骗局"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

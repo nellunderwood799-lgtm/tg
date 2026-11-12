@@ -9,9 +9,9 @@ pain_point: "账号价格"
 
 # Telegram号码类型会影响账号价格吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**卖家可能把号码来源或区号作为定价标签，但标签不能证明长期控制权或账号质量。核实号码能否持续由使用者控制，而不是只看国家代码。
 
@@ -26,5 +26,3 @@ pain_point: "账号价格"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

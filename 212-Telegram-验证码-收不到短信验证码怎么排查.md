@@ -9,9 +9,9 @@ pain_point: "验证码"
 
 # Telegram收不到短信验证码怎么排查
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先确认国际格式手机号和登录页提示；Telegram可能把代码发到其他会话。不要连续重发，按界面等待并使用官方支持入口。
 
@@ -26,5 +26,3 @@ Telegram 登录码只用于本人主动登录，不能发给卖家、客服或�
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

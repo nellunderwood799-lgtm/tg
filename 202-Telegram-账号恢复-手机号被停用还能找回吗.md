@@ -9,9 +9,9 @@ pain_point: "账号恢复"
 
 # Telegram账号手机号被停用还能找回吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先联系运营商确认能否恢复原号码；Telegram支持通常依赖号码或仍有效的登录会话。若号码会被回收，尽快从仍登录设备迁移。
 
@@ -26,5 +26,3 @@ pain_point: "账号恢复"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

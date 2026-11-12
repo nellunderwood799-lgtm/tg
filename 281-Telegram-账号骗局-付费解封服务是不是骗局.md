@@ -9,9 +9,9 @@ pain_point: "账号骗局"
 
 # Telegram账号交易付费解封服务是不是骗局
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**无法验证的内部解封承诺风险很高，平台审核应走官方路径。通过 @SpamBot 或官方支持处理，不交验证码。
 
@@ -26,5 +26,3 @@ pain_point: "账号骗局"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

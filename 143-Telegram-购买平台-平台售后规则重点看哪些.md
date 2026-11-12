@@ -9,9 +9,9 @@ pain_point: "购买平台"
 
 # Telegram账号平台售后规则重点看哪些
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**看号码失效、交付资料缺失、已有账号限制、买家误操作分别怎么处理。确认提交证据和申请退款的截止时间。
 
@@ -26,5 +26,3 @@ Telegram 没有在官方 FAQ 中提供第三方账号交易平台背书；应把
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

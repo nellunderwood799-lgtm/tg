@@ -9,9 +9,9 @@ pain_point: "购买平台"
 
 # Telegram账号购买平台怎么判断是否可靠
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先核验经营主体、售后条款、收款对象和争议处理路径；平台页面或 Telegram 群组身份本身不构成担保。保存商品页和规则快照，不在临时变更收款地址后付款。
 
@@ -26,5 +26,3 @@ Telegram 没有在官方 FAQ 中提供第三方账号交易平台背书；应把
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

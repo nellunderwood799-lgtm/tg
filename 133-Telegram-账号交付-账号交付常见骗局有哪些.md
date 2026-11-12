@@ -9,9 +9,9 @@ pain_point: "账号交付"
 
 # Telegram账号账号交付常见骗局有哪些
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**只给截图或一次验证码、保留手机号、事后收费解锁和要求远程控制都是风险信号。核实主体、规则、可追溯付款和书面交付范围。
 
@@ -26,5 +26,3 @@ pain_point: "账号交付"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

@@ -9,9 +9,9 @@ pain_point: "验证码"
 
 # Telegram手机号国家代码填错怎么办
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**登录时应使用国际格式并核对国家代码和完整号码。修正号码后只通过官方客户端重新尝试。
 
@@ -26,5 +26,3 @@ Telegram 登录码只用于本人主动登录，不能发给卖家、客服或�
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

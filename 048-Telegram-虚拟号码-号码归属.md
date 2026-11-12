@@ -9,9 +9,9 @@ pain_point: "虚拟号码"
 
 # Telegram虚拟号码账号号码控制权怎么确认
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**查看号码是否由实际使用者长期持有、能否续费或补卡，并确认账号设置里的号码与商品描述一致。不能持续控制号码时，不应把账号用于重要业务。
 
@@ -26,5 +26,3 @@ pain_point: "虚拟号码"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

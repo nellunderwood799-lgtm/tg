@@ -9,9 +9,9 @@ pain_point: "登录资料"
 
 # Telegram账号登录资料新手怎么选才不踩坑
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**若用于长期个人或业务沟通，优先使用本人/企业长期控制的号码自行注册；第三方转手账号无法仅凭标签证明安全。先按使用期限、号码控制和恢复责任比较，再看价格。
 
@@ -26,5 +26,3 @@ pain_point: "登录资料"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

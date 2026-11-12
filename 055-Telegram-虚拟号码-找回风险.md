@@ -9,9 +9,9 @@ pain_point: "虚拟号码"
 
 # Telegram虚拟号码账号原持有人还能找回账号吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**如果对方仍控制绑定手机号、恢复邮箱或有效会话，就存在重新登录或干预恢复的风险。无法确认全部恢复路径时，不应认为完成了控制权交接。
 
@@ -26,5 +26,3 @@ pain_point: "虚拟号码"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

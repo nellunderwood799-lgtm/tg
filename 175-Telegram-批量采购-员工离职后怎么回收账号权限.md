@@ -9,9 +9,9 @@ pain_point: "批量采购"
 
 # Telegram账号员工离职后怎么回收账号权限
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先回收业务系统和群组权限，再检查号码、设备会话、邮箱和机器人Token。把访问清单纳入离职流程并验证回收完成。
 
@@ -26,5 +26,3 @@ pain_point: "批量采购"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

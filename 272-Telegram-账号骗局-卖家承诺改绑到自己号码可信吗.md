@@ -9,9 +9,9 @@ pain_point: "账号骗局"
 
 # Telegram账号交易卖家承诺改绑到自己号码可信吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**要求确认实际改绑流程和当前账号限制；口头承诺不能证明号码控制权已经转移。未核实前不要投入联系人或业务数据。
 
@@ -26,5 +26,3 @@ pain_point: "账号骗局"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

@@ -9,9 +9,9 @@ pain_point: "邮箱账号"
 
 # Telegram带邮箱账号两步验证密码忘了怎么办
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**先看是否仍有本人登录设备和可用恢复邮箱，再按照官方客户端给出的重置流程处理。重置可能有等待或数据影响，先读完提示。
 
@@ -26,5 +26,3 @@ pain_point: "邮箱账号"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/privacy)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

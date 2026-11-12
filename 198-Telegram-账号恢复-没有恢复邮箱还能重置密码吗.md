@@ -9,9 +9,9 @@ pain_point: "账号恢复"
 
 # Telegram账号没有恢复邮箱还能重置密码吗
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**是否能重置取决于当前账号状态和登录页面给出的官方选项。不要假设客服或第三方能绕过账号安全验证。
 
@@ -26,5 +26,3 @@ pain_point: "账号恢复"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

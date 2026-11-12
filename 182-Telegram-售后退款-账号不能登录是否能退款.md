@@ -9,9 +9,9 @@ pain_point: "售后退款"
 
 # Telegram账号账号不能登录是否能退款
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**要对照商品描述、交付字段和售后规则；先区分账号资料错误与 Telegram 的验证码投递问题。记录官方错误提示和发生时间后及时申报。
 
@@ -26,5 +26,3 @@ pain_point: "售后退款"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

@@ -9,9 +9,9 @@ pain_point: "账号交接"
 
 # Telegram频道交接验收清单有哪些
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**核对所有者、管理员、机器人、邀请链接、置顶内容、客服入口和恢复责任人。由新负责人逐项登录确认后再关闭旧权限。
 
@@ -26,5 +26,3 @@ pain_point: "账号交接"
 
 ### 官方资料
 [Telegram 官方说明](https://core.telegram.org/api/channel)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

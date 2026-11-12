@@ -9,9 +9,9 @@ pain_point: "账号被盗"
 
 # Telegram账号登录码被泄露怎么办
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**立即在可信会话结束陌生设备，并更新两步验证和恢复邮箱。若无法访问，使用官方支持和运营商渠道。
 
@@ -26,5 +26,3 @@ pain_point: "账号被盗"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/faq)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)

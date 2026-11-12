@@ -9,9 +9,9 @@ pain_point: "批量采购"
 
 # Telegram账号批量采购报价如何评估
 
-[火星铺子 Telegram 商品目录](https://hxpuzi.com/?utm_source=github)
+[➡️➡️➡️HX 铺子 Telegram 账号商城下单](https://hxpuzi.com/telegram-account/?utm_source=github)
 
-[![火星铺子 Telegram 行业文章参考](images/telegram-cover.svg)](https://hxpuzi.com/?utm_source=github)
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/telegram-account/?utm_source=github)
 
 **先给结论：**要把购置、号码续费、恢复维护、人员培训和争议处理计入总成本。先用小范围、可撤回的流程试点验证真实人力。
 
@@ -26,5 +26,3 @@ pain_point: "批量采购"
 
 ### 官方资料
 [Telegram 官方说明](https://telegram.org/tos)
-
-[查看商品目录](https://hxpuzi.com/?utm_source=github)
